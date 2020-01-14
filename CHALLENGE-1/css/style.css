@@ -1,0 +1,22 @@
+
+button{
+    background-color: orange;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+}
+
+h4{
+    text-align: center;
+    margin-top: 50px;
+}
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
